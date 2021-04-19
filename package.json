@@ -1,0 +1,17 @@
+{
+  "name": "angelguard",
+  "version": "1.0.0",
+  "description": "Angel Guard",
+  "main": "launch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Know",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.5.1",
+    "discord.js-pagination": "^1.0.3",
+    "mv": "^2.1.1"
+  }
+}
